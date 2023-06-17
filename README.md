@@ -1,3 +1,2 @@
 # obsidian
 my notebook
-Fggh
